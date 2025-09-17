@@ -3,3 +3,4 @@
 - 2025-09-15T06:34:55.000Z: perf: reduce memory footprint in batch processor
 - 2025-09-15T13:23:38.000Z: chore: dependency security audit and cleanup
 - 2025-09-15T10:27:08.000Z: feat: enhance API payload validation and error handling
+- 2025-09-17T06:49:56.000Z: docs: update architecture specification notes
