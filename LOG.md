@@ -6,3 +6,4 @@
 - 2025-09-17T06:49:56.000Z: docs: update architecture specification notes
 - 2025-09-17T04:52:41.000Z: refactor: modularize service handlers
 - 2025-09-18T04:03:20.000Z: test: expand test coverage for core utilities
+- 2025-09-18T07:22:20.000Z: chore: dependency security audit and cleanup
