@@ -23,3 +23,4 @@
 - 2025-09-29T05:05:06.000Z: feat: add telemetry event hooks
 - 2025-09-29T05:13:41.000Z: fix: handle edge case in request timeout handling
 - 2025-09-30T11:59:40.000Z: refactor: clean up async pipeline execution
+- 2025-09-30T12:01:06.000Z: feat: enhance API payload validation and error handling
