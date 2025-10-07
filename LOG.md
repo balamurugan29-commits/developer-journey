@@ -38,3 +38,4 @@
 - 2025-10-06T04:54:51.000Z: chore: dependency security audit and cleanup
 - 2025-10-06T06:49:33.000Z: feat: add telemetry event hooks
 - 2025-10-06T08:13:39.000Z: test: expand test coverage for core utilities
+- 2025-10-07T09:17:29.000Z: fix: handle edge case in request timeout handling
