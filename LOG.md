@@ -49,3 +49,4 @@
 - 2025-10-09T11:03:18.000Z: perf: reduce memory footprint in batch processor
 - 2025-10-09T13:02:56.000Z: feat: implement caching layer for query performance
 - 2025-10-10T07:49:34.000Z: feat: add telemetry event hooks
+- 2025-10-10T09:14:21.000Z: docs: update architecture specification notes
