@@ -87,3 +87,4 @@
 - 2025-10-24T08:47:04.000Z: test: expand test coverage for core utilities
 - 2025-10-24T03:35:46.000Z: feat: integrate structured logging format
 - 2025-10-24T13:53:20.000Z: feat: integrate structured logging format
+- 2025-10-25T13:50:15.000Z: chore: dependency security audit and cleanup
