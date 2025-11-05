@@ -104,3 +104,4 @@
 - 2025-11-04T10:18:52.000Z: test: expand test coverage for core utilities
 - 2025-11-04T06:40:43.000Z: test: expand test coverage for core utilities
 - 2025-11-04T14:09:51.000Z: test: expand test coverage for core utilities
+- 2025-11-05T03:30:08.000Z: docs: update architecture specification notes
