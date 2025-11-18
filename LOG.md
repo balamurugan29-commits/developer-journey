@@ -124,3 +124,4 @@
 - 2025-11-14T11:21:07.000Z: feat: add telemetry event hooks
 - 2025-11-14T07:31:46.000Z: feat: implement caching layer for query performance
 - 2025-11-18T12:58:16.000Z: test: expand test coverage for core utilities
+- 2025-11-18T11:30:10.000Z: chore: dependency security audit and cleanup
