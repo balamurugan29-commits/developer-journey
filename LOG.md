@@ -145,3 +145,4 @@
 - 2025-11-27T07:49:38.000Z: test: expand test coverage for core utilities
 - 2025-11-28T05:48:30.000Z: test: expand test coverage for core utilities
 - 2025-11-28T04:57:56.000Z: refactor: modularize service handlers
+- 2025-11-28T10:16:11.000Z: docs: update architecture specification notes
