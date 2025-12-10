@@ -171,3 +171,4 @@
 - 2025-12-10T09:08:29.000Z: chore: dependency security audit and cleanup
 - 2025-12-10T07:05:29.000Z: perf: reduce memory footprint in batch processor
 - 2025-12-10T10:35:39.000Z: feat: add telemetry event hooks
+- 2025-12-10T08:38:36.000Z: perf: reduce memory footprint in batch processor
