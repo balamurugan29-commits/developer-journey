@@ -217,3 +217,4 @@
 - 2026-01-06T07:08:19.000Z: feat: add telemetry event hooks
 - 2026-01-07T07:51:32.000Z: feat: add telemetry event hooks
 - 2026-01-07T07:41:19.000Z: refactor: modularize service handlers
+- 2026-01-08T06:41:21.000Z: docs: update architecture specification notes
