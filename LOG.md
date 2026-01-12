@@ -224,3 +224,4 @@
 - 2026-01-09T07:50:32.000Z: docs: update architecture specification notes
 - 2026-01-11T12:23:42.000Z: test: expand test coverage for core utilities
 - 2026-01-12T03:50:34.000Z: refactor: clean up async pipeline execution
+- 2026-01-12T12:41:57.000Z: feat: add telemetry event hooks
