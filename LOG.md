@@ -227,3 +227,4 @@
 - 2026-01-12T12:41:57.000Z: feat: add telemetry event hooks
 - 2026-01-13T11:08:21.000Z: docs: update architecture specification notes
 - 2026-01-13T06:11:05.000Z: perf: reduce memory footprint in batch processor
+- 2026-01-13T09:17:28.000Z: chore: dependency security audit and cleanup
