@@ -245,3 +245,4 @@
 - 2026-01-20T07:33:15.000Z: feat: add telemetry event hooks
 - 2026-01-21T08:32:23.000Z: feat: add telemetry event hooks
 - 2026-01-21T07:37:40.000Z: feat: enhance API payload validation and error handling
+- 2026-01-21T07:58:21.000Z: fix: handle edge case in request timeout handling
