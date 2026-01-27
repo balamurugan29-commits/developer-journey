@@ -258,3 +258,4 @@
 - 2026-01-27T05:19:23.000Z: chore: dependency security audit and cleanup
 - 2026-01-27T06:22:33.000Z: fix: handle edge case in request timeout handling
 - 2026-01-27T08:34:04.000Z: chore: dependency security audit and cleanup
+- 2026-01-27T07:06:28.000Z: perf: reduce memory footprint in batch processor
