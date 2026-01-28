@@ -260,3 +260,4 @@
 - 2026-01-27T08:34:04.000Z: chore: dependency security audit and cleanup
 - 2026-01-27T07:06:28.000Z: perf: reduce memory footprint in batch processor
 - 2026-01-28T05:03:33.000Z: perf: reduce memory footprint in batch processor
+- 2026-01-28T05:52:47.000Z: test: expand test coverage for core utilities
