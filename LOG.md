@@ -261,3 +261,4 @@
 - 2026-01-27T07:06:28.000Z: perf: reduce memory footprint in batch processor
 - 2026-01-28T05:03:33.000Z: perf: reduce memory footprint in batch processor
 - 2026-01-28T05:52:47.000Z: test: expand test coverage for core utilities
+- 2026-01-28T14:25:31.000Z: feat: enhance API payload validation and error handling
