@@ -298,3 +298,4 @@
 - 2026-02-24T09:51:56.000Z: perf: reduce memory footprint in batch processor
 - 2026-02-24T13:39:54.000Z: refactor: clean up async pipeline execution
 - 2026-02-24T13:45:53.000Z: perf: reduce memory footprint in batch processor
+- 2026-02-24T05:52:01.000Z: feat: add telemetry event hooks
