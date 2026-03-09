@@ -314,3 +314,4 @@
 - 2026-03-05T11:36:42.000Z: feat: add telemetry event hooks
 - 2026-03-07T08:02:42.000Z: chore: dependency security audit and cleanup
 - 2026-03-09T13:27:49.000Z: chore: dependency security audit and cleanup
+- 2026-03-09T09:37:17.000Z: refactor: clean up async pipeline execution
