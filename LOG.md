@@ -371,3 +371,4 @@
 - 2026-04-07T11:12:31.000Z: feat: implement caching layer for query performance
 - 2026-04-07T08:11:06.000Z: feat: add telemetry event hooks
 - 2026-04-09T05:40:48.000Z: feat: implement caching layer for query performance
+- 2026-04-09T11:47:25.000Z: perf: reduce memory footprint in batch processor
