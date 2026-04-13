@@ -375,3 +375,4 @@
 - 2026-04-10T11:52:47.000Z: feat: add telemetry event hooks
 - 2026-04-10T07:19:42.000Z: refactor: clean up async pipeline execution
 - 2026-04-10T09:58:14.000Z: fix: handle edge case in request timeout handling
+- 2026-04-13T06:58:43.000Z: fix: handle edge case in request timeout handling
