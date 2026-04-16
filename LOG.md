@@ -384,3 +384,4 @@
 - 2026-04-14T05:45:18.000Z: refactor: modularize service handlers
 - 2026-04-16T11:20:54.000Z: chore: dependency security audit and cleanup
 - 2026-04-16T08:34:27.000Z: docs: update architecture specification notes
+- 2026-04-16T11:39:44.000Z: feat: add telemetry event hooks
