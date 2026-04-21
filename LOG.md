@@ -393,3 +393,4 @@
 - 2026-04-20T11:07:53.000Z: chore: dependency security audit and cleanup
 - 2026-04-20T11:55:21.000Z: chore: dependency security audit and cleanup
 - 2026-04-21T10:07:58.000Z: feat: implement caching layer for query performance
+- 2026-04-21T14:20:04.000Z: refactor: modularize service handlers
