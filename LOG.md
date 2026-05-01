@@ -414,3 +414,4 @@
 - 2026-04-28T07:37:43.000Z: perf: reduce memory footprint in batch processor
 - 2026-04-29T04:15:29.000Z: feat: integrate structured logging format
 - 2026-04-29T11:31:20.000Z: refactor: clean up async pipeline execution
+- 2026-05-01T06:44:20.000Z: docs: update architecture specification notes
