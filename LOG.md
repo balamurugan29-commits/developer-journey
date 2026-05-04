@@ -416,3 +416,4 @@
 - 2026-04-29T11:31:20.000Z: refactor: clean up async pipeline execution
 - 2026-05-01T06:44:20.000Z: docs: update architecture specification notes
 - 2026-05-01T13:20:15.000Z: feat: implement caching layer for query performance
+- 2026-05-04T12:21:06.000Z: feat: add telemetry event hooks
