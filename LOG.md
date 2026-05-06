@@ -423,3 +423,4 @@
 - 2026-05-05T10:41:36.000Z: refactor: clean up async pipeline execution
 - 2026-05-05T09:10:22.000Z: feat: add telemetry event hooks
 - 2026-05-06T05:47:48.000Z: docs: update architecture specification notes
+- 2026-05-06T08:47:20.000Z: perf: reduce memory footprint in batch processor
