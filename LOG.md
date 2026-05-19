@@ -447,3 +447,4 @@
 - 2026-05-17T03:34:51.000Z: perf: reduce memory footprint in batch processor
 - 2026-05-19T04:31:42.000Z: feat: add telemetry event hooks
 - 2026-05-19T08:16:06.000Z: test: expand test coverage for core utilities
+- 2026-05-19T13:53:11.000Z: docs: update architecture specification notes
