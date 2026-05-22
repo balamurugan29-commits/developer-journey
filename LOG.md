@@ -450,3 +450,4 @@
 - 2026-05-19T13:53:11.000Z: docs: update architecture specification notes
 - 2026-05-22T09:03:27.000Z: feat: implement caching layer for query performance
 - 2026-05-22T03:52:09.000Z: test: expand test coverage for core utilities
+- 2026-05-22T04:46:50.000Z: feat: add telemetry event hooks
