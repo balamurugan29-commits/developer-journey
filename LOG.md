@@ -453,3 +453,4 @@
 - 2026-05-22T04:46:50.000Z: feat: add telemetry event hooks
 - 2026-05-22T06:53:25.000Z: feat: add telemetry event hooks
 - 2026-05-23T12:16:13.000Z: feat: add telemetry event hooks
+- 2026-05-23T04:00:30.000Z: feat: integrate structured logging format
