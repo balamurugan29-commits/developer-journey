@@ -477,3 +477,4 @@
 - 2026-06-02T11:10:43.000Z: refactor: clean up async pipeline execution
 - 2026-06-02T06:49:39.000Z: feat: add telemetry event hooks
 - 2026-06-03T05:37:27.000Z: refactor: clean up async pipeline execution
+- 2026-06-03T09:31:07.000Z: feat: integrate structured logging format
