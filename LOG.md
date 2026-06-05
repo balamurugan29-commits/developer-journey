@@ -482,3 +482,4 @@
 - 2026-06-04T05:43:14.000Z: refactor: clean up async pipeline execution
 - 2026-06-04T09:24:18.000Z: refactor: modularize service handlers
 - 2026-06-05T08:27:03.000Z: feat: implement caching layer for query performance
+- 2026-06-05T11:41:49.000Z: feat: add telemetry event hooks
