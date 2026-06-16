@@ -494,3 +494,4 @@
 - 2026-06-12T04:49:05.000Z: feat: add telemetry event hooks
 - 2026-06-15T08:05:17.000Z: chore: dependency security audit and cleanup
 - 2026-06-15T12:47:06.000Z: fix: handle edge case in request timeout handling
+- 2026-06-16T08:52:14.000Z: docs: update architecture specification notes
