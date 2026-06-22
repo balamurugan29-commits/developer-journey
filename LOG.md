@@ -504,3 +504,4 @@
 - 2026-06-19T12:36:06.000Z: fix: handle edge case in request timeout handling
 - 2026-06-22T08:52:20.000Z: fix: handle edge case in request timeout handling
 - 2026-06-22T07:17:49.000Z: feat: integrate structured logging format
+- 2026-06-22T06:33:56.000Z: feat: add telemetry event hooks
