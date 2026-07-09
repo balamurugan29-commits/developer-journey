@@ -531,3 +531,4 @@
 - 2026-07-08T09:19:17.000Z: docs: update architecture specification notes
 - 2026-07-08T11:45:52.000Z: fix: handle edge case in request timeout handling
 - 2026-07-09T03:46:32.000Z: test: expand test coverage for core utilities
+- 2026-07-09T13:52:29.000Z: perf: reduce memory footprint in batch processor
