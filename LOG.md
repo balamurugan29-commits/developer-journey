@@ -593,3 +593,4 @@
 - 2026-08-07T08:52:06.000Z: refactor: modularize service handlers
 - 2026-08-07T14:01:24.000Z: feat: implement caching layer for query performance
 - 2026-08-08T10:51:50.000Z: feat: implement caching layer for query performance
+- 2026-08-10T08:38:04.000Z: feat: add telemetry event hooks
