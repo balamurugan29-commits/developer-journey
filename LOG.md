@@ -605,3 +605,4 @@
 - 2026-08-12T06:13:27.000Z: fix: handle edge case in request timeout handling
 - 2026-08-12T13:16:58.000Z: feat: add telemetry event hooks
 - 2026-08-12T07:43:43.000Z: refactor: modularize service handlers
+- 2026-08-16T03:44:24.000Z: perf: reduce memory footprint in batch processor
