@@ -607,3 +607,4 @@
 - 2026-08-12T07:43:43.000Z: refactor: modularize service handlers
 - 2026-08-16T03:44:24.000Z: perf: reduce memory footprint in batch processor
 - 2026-08-16T11:04:41.000Z: docs: update architecture specification notes
+- 2026-08-19T09:37:52.000Z: feat: add telemetry event hooks
