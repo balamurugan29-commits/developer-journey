@@ -620,3 +620,4 @@
 - 2026-08-24T07:20:53.000Z: feat: enhance API payload validation and error handling
 - 2026-08-24T07:08:00.000Z: test: expand test coverage for core utilities
 - 2026-08-24T03:45:14.000Z: feat: add telemetry event hooks
+- 2026-08-26T13:39:53.000Z: fix: handle edge case in request timeout handling
