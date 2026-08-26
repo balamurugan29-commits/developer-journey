@@ -622,3 +622,4 @@
 - 2026-08-24T03:45:14.000Z: feat: add telemetry event hooks
 - 2026-08-26T13:39:53.000Z: fix: handle edge case in request timeout handling
 - 2026-08-26T14:18:09.000Z: chore: dependency security audit and cleanup
+- 2026-08-26T05:16:31.000Z: feat: implement caching layer for query performance
