@@ -642,3 +642,4 @@
 - 2026-09-04T13:00:57.000Z: docs: update architecture specification notes
 - 2026-09-04T08:42:03.000Z: feat: enhance API payload validation and error handling
 - 2026-09-07T08:25:40.000Z: perf: reduce memory footprint in batch processor
+- 2026-09-07T10:36:58.000Z: feat: add telemetry event hooks
