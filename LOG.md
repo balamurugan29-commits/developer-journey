@@ -655,3 +655,4 @@
 - 2026-09-10T08:23:04.000Z: docs: update architecture specification notes
 - 2026-09-10T11:41:54.000Z: feat: implement caching layer for query performance
 - 2026-09-11T09:14:08.000Z: test: expand test coverage for core utilities
+- 2026-09-11T12:43:47.000Z: docs: refine API schema documentation and examples
