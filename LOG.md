@@ -665,3 +665,4 @@
 - 2026-09-14T14:06:05.000Z: feat: add request correlation ID tracking
 - 2026-09-14T15:06:22.000Z: fix: resolve connection timeout handling in client pool
 - 2026-09-14T20:38:16.000Z: docs: update architecture specification notes
+- 2026-09-15T10:40:39.000Z: fix: resolve connection timeout handling in client pool
