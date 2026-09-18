@@ -681,3 +681,4 @@
 - 2026-09-17T14:13:58.000Z: perf: optimize database query execution plan
 - 2026-09-17T19:13:41.000Z: feat: implement health check endpoint and probes
 - 2026-09-18T10:47:35.000Z: docs: refine API schema documentation and examples
+- 2026-09-18T11:16:47.000Z: refactor: decouple configuration loader module
