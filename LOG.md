@@ -695,3 +695,4 @@
 - 2026-09-21T14:32:48.000Z: perf: reduce memory footprint in batch processor
 - 2026-09-21T15:32:58.000Z: test: expand test coverage for core utilities
 - 2026-09-21T19:55:40.000Z: chore: dependency security audit and cleanup
+- 2026-09-22T11:49:59.000Z: chore: update build pipeline definitions
