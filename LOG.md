@@ -707,3 +707,4 @@
 - 2026-09-24T15:48:46.000Z: feat: add telemetry event hooks
 - 2026-09-24T17:45:19.000Z: feat: add request correlation ID tracking
 - 2026-09-24T18:42:41.000Z: fix: resolve connection timeout handling in client pool
+- 2026-09-25T09:21:01.000Z: docs: refine API schema documentation and examples
