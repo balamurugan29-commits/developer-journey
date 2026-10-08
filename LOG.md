@@ -762,3 +762,4 @@
 - 2026-10-08T15:37:35.000Z: feat: integrate structured logging format
 - 2026-10-08T17:27:08.000Z: docs: update architecture specification notes
 - 2026-10-08T18:19:23.000Z: docs: update architecture specification notes
+- 2026-10-08T20:57:22.000Z: feat: add telemetry event hooks
