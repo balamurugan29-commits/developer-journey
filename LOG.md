@@ -763,3 +763,4 @@
 - 2026-10-08T17:27:08.000Z: docs: update architecture specification notes
 - 2026-10-08T18:19:23.000Z: docs: update architecture specification notes
 - 2026-10-08T20:57:22.000Z: feat: add telemetry event hooks
+- 2026-10-09T10:56:55.000Z: refactor: decouple configuration loader module
