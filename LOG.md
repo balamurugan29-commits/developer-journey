@@ -775,3 +775,4 @@
 - 2026-10-12T12:14:01.000Z: feat: add telemetry event hooks
 - 2026-10-12T13:25:21.000Z: feat: enhance API payload validation and error handling
 - 2026-10-12T14:55:04.000Z: feat: enhance API payload validation and error handling
+- 2026-10-12T16:22:41.000Z: chore: update build pipeline definitions
