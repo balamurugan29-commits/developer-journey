@@ -785,3 +785,4 @@
 - 2026-10-14T12:23:27.000Z: refactor: clean up async pipeline execution
 - 2026-10-14T17:42:58.000Z: perf: optimize database query execution plan
 - 2026-10-14T20:39:20.000Z: test: expand test coverage for core utilities
+- 2026-10-15T13:44:18.000Z: docs: refine API schema documentation and examples
