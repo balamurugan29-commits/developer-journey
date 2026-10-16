@@ -790,3 +790,4 @@
 - 2026-10-15T15:42:24.000Z: perf: reduce memory footprint in batch processor
 - 2026-10-15T17:39:36.000Z: chore: dependency security audit and cleanup
 - 2026-10-15T18:25:35.000Z: feat: implement caching layer for query performance
+- 2026-10-16T12:28:28.000Z: feat: add telemetry event hooks
