@@ -798,3 +798,4 @@
 - 2026-10-17T12:09:01.000Z: docs: update architecture specification notes
 - 2026-10-17T13:15:30.000Z: refactor: clean up async pipeline execution
 - 2026-10-17T19:29:26.000Z: feat: add telemetry event hooks
+- 2026-10-18T15:25:15.000Z: feat: integrate structured logging format
