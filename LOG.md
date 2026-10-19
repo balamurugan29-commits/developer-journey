@@ -805,3 +805,4 @@
 - 2026-10-19T11:29:08.000Z: test: add benchmark tests for serialization overhead
 - 2026-10-19T12:42:33.000Z: docs: refine API schema documentation and examples
 - 2026-10-19T13:38:20.000Z: test: add benchmark tests for serialization overhead
+- 2026-10-19T16:39:52.000Z: chore: update build pipeline definitions
